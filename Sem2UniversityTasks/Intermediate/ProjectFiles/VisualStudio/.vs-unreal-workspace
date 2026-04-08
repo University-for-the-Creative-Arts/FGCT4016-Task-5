@@ -1,0 +1,19 @@
+{
+  "targets": {
+    "Sem2UniversityTasksEditor": {
+      "targetType": "Editor",
+      "targetPath": "D:\\Unreal cpp\\FGCT4016-Task-4\\Sem2UniversityTasks\\Source\\Sem2UniversityTasksEditor.Target.cs",
+      "projectPath": "D:\\Unreal cpp\\FGCT4016-Task-4\\Sem2UniversityTasks\\Sem2UniversityTasks.uproject",
+      "configurations": [
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "Development-Win64"
+      ]
+    }
+  }
+}

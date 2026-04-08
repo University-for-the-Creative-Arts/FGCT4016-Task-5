@@ -2,13 +2,32 @@
 
 
 #include "TestActor.h"
+#include "InteractionInterface.h"
 
 
 ATestActor::ATestActor()
 {
+	SphereCollision = CreateDefaultSubobject<USphereComponent>(TEXT("SphereCollision"));
+	RootComponent = SphereCollision;
+	SphereCollision->SetSphereRadius(100.0f);
+	SphereCollision->SetCollisionProfileName(TEXT("Trigger"));
+	SphereCollision->OnComponentBeginOverlap.AddDynamic(this, &ATestActor::OnOverlapBegin);
 
 	PrimaryActorTick.bCanEverTick = true;
 
+}
+
+void ATestActor::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
+{
+	if (OtherActor && OtherActor != this)
+	{
+		IInteractionInterface* Target = Cast<IInteractionInterface>(OtherActor);
+
+		if (Target && Target->CanInteract(this))
+		{
+			Target->Interact(this);
+		}
+	}
 }
 
 
@@ -30,7 +49,7 @@ void ATestActor::BeginPlay()
 void ATestActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	;	Greeting();
+
 }
 
 void ATestActor::Greeting()

@@ -1,4 +1,4 @@
-"D:/Unreal cpp/FGCT4016-Task-2/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.cpp"
+"D:/Unreal cpp/FGCT4016-Task-4/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.cpp"
 /I "."
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/Slate/UHT"
 /I "Runtime/Slate/Public"
@@ -39,10 +39,10 @@
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/winrt"
 /Yc"SharedPCH.Slate.Cpp20.h"
-/Fp"D:/Unreal cpp/FGCT4016-Task-2/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.pch"
-/Fo"D:/Unreal cpp/FGCT4016-Task-2/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.obj"
-/experimental:log "D:/Unreal cpp/FGCT4016-Task-2/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.sarif"
-/sourceDependencies "D:/Unreal cpp/FGCT4016-Task-2/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.dep.json"
+/Fp"D:/Unreal cpp/FGCT4016-Task-4/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.pch"
+/Fo"D:/Unreal cpp/FGCT4016-Task-4/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.obj"
+/experimental:log "D:/Unreal cpp/FGCT4016-Task-4/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.sarif"
+/sourceDependencies "D:/Unreal cpp/FGCT4016-Task-4/Sem2UniversityTasks/Intermediate/Build/Win64/x64/Sem2UniversityTasksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

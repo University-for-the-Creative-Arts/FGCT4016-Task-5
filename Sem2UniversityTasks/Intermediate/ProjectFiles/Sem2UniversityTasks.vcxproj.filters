@@ -30,6 +30,18 @@
     <Filter Include="Source\Sem2UniversityTasks">
       <UniqueIdentifier>{AA726FD7-2B78-3F2E-A7D7-DA659D754C54}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Sem2UniversityTasks\InteractableActor.cpp">
+      <Filter>Source\Sem2UniversityTasks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sem2UniversityTasks\InteractableActor.h">
+      <Filter>Source\Sem2UniversityTasks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sem2UniversityTasks\InteractionInterface.cpp">
+      <Filter>Source\Sem2UniversityTasks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sem2UniversityTasks\InteractionInterface.h">
+      <Filter>Source\Sem2UniversityTasks</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Sem2UniversityTasks\Sem2UniversityTasks.Build.cs">
       <Filter>Source\Sem2UniversityTasks</Filter>
     </None>

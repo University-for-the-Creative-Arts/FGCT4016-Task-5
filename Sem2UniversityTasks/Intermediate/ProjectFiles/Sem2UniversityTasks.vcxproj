@@ -257,6 +257,14 @@
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
+    <ClCompile Include="..\..\Source\Sem2UniversityTasks\InteractableActor.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sem2UniversityTasks\InteractableActor.h"/>
+    <ClCompile Include="..\..\Source\Sem2UniversityTasks\InteractionInterface.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sem2UniversityTasks\InteractionInterface.h"/>
     <None Include="..\..\Source\Sem2UniversityTasks\Sem2UniversityTasks.Build.cs"/>
     <ClCompile Include="..\..\Source\Sem2UniversityTasks\Sem2UniversityTasks.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>

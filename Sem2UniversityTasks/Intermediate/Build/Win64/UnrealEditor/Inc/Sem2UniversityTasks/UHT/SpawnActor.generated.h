@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class ASpawnActor **************************************************************
 SEM2UNIVERSITYTASKS_API UClass* Z_Construct_UClass_ASpawnActor_NoRegister();
 
-#define FID_Unreal_cpp_FGCT4016_Task_2_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASpawnActor(); \
 	friend struct Z_Construct_UClass_ASpawnActor_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(ASpawnActor)
 
 
-#define FID_Unreal_cpp_FGCT4016_Task_2_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ASpawnActor(ASpawnActor&&) = delete; \
 	ASpawnActor(const ASpawnActor&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~ASpawnActor();
 
 
-#define FID_Unreal_cpp_FGCT4016_Task_2_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_8_PROLOG
-#define FID_Unreal_cpp_FGCT4016_Task_2_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_GENERATED_BODY \
+#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_8_PROLOG
+#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_cpp_FGCT4016_Task_2_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_cpp_FGCT4016_Task_2_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h_11_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class ASpawnActor;
 // ********** End Class ASpawnActor ****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_cpp_FGCT4016_Task_2_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h
+#define CURRENT_FILE_ID FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_SpawnActor_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
