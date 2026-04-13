@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AInteractableActor *******************************************************
 SEM2UNIVERSITYTASKS_API UClass* Z_Construct_UClass_AInteractableActor_NoRegister();
 
-#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAInteractableActor(); \
 	friend struct Z_Construct_UClass_AInteractableActor_Statics; \
@@ -31,7 +31,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AInteractableActor*>(this); }
 
 
-#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AInteractableActor(AInteractableActor&&) = delete; \
 	AInteractableActor(const AInteractableActor&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~AInteractableActor();
 
 
-#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_10_PROLOG
-#define FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_GENERATED_BODY \
+#define FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_10_PROLOG
+#define FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class AInteractableActor;
 // ********** End Class AInteractableActor *********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h
+#define CURRENT_FILE_ID FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

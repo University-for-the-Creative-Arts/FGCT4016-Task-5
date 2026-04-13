@@ -1,13 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal cpp\\fgct4016-task-4\\sem2universitytasks\\source\\sem2universitytasks\\testactor.cpp",
+        "Source": "d:\\unreal cpp\\fgct4016-task-6\\sem2universitytasks\\source\\sem2universitytasks\\testactor.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal cpp\\fgct4016-task-4\\sem2universitytasks\\intermediate\\build\\win64\\x64\\sem2universitytaskseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "PCH": "d:\\unreal cpp\\fgct4016-task-6\\sem2universitytasks\\intermediate\\build\\win64\\x64\\sem2universitytaskseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal cpp\\fgct4016-task-4\\sem2universitytasks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sem2universitytasks\\definitions.sem2universitytasks.h",
-            "d:\\unreal cpp\\fgct4016-task-4\\sem2universitytasks\\source\\sem2universitytasks\\testactor.h",
-            "d:\\unreal cpp\\fgct4016-task-4\\sem2universitytasks\\intermediate\\build\\win64\\unrealeditor\\inc\\sem2universitytasks\\uht\\testactor.generated.h"
+            "d:\\unreal cpp\\fgct4016-task-6\\sem2universitytasks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sem2universitytasks\\definitions.sem2universitytasks.h",
+            "d:\\unreal cpp\\fgct4016-task-6\\sem2universitytasks\\source\\sem2universitytasks\\testactor.h",
+            "d:\\program files slow\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\program files slow\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\program files slow\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\program files slow\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "d:\\unreal cpp\\fgct4016-task-6\\sem2universitytasks\\intermediate\\build\\win64\\unrealeditor\\inc\\sem2universitytasks\\uht\\testactor.generated.h",
+            "d:\\unreal cpp\\fgct4016-task-6\\sem2universitytasks\\source\\sem2universitytasks\\interactioninterface.h",
+            "d:\\unreal cpp\\fgct4016-task-6\\sem2universitytasks\\intermediate\\build\\win64\\unrealeditor\\inc\\sem2universitytasks\\uht\\interactioninterface.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

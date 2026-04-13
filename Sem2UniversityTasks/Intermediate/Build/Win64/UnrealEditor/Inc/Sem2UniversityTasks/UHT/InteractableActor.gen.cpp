@@ -103,14 +103,14 @@ AInteractableActor::~AInteractableActor() {}
 // ********** End Class AInteractableActor *********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_Statics
+struct Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AInteractableActor, AInteractableActor::StaticClass, TEXT("AInteractableActor"), &Z_Registration_Info_UClass_AInteractableActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AInteractableActor), 1783648817U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_3977014939(TEXT("/Script/Sem2UniversityTasks"),
-	Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_4_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_3977014939(TEXT("/Script/Sem2UniversityTasks"),
+	Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_cpp_FGCT4016_Task_6_Sem2UniversityTasks_Source_Sem2UniversityTasks_InteractableActor_h__Script_Sem2UniversityTasks_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
